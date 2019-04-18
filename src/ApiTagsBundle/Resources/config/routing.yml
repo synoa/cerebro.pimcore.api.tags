@@ -1,0 +1,3 @@
+api_tags_homepage:
+    path:     /
+    defaults: { _controller: ApiTagsBundle:Default:index }

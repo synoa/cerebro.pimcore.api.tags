@@ -1,0 +1,3 @@
+synoa_api_tags_homepage:
+    path:     /
+    defaults: { _controller: SynoaApiTagsBundle:Default:index }

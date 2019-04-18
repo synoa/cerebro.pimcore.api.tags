@@ -1,0 +1,5 @@
+api_tags:
+    resource: "@ApiTagsBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
