@@ -1,7 +1,7 @@
 {
   "name": "synoa/apitags",
   "description": "Pimcore Extension which is extending webservice to fetch also tags when requesting assets",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "type": "pimcore-bundle",
   "require": {
     "pimcore/pimcore": "^5.7.0||^6.0.0"
