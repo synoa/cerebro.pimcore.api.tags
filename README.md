@@ -7,7 +7,7 @@ This Extension is adding tags to the assets when received with the REST endpoint
 Install with composer
 
 ```
-composer config repositories.synoa_apitags git https://github.com/synoa/cerebro.pimcore.api.tags.poc.git
+composer config repositories.synoa_apitags git https://github.com/synoa/cerebro.pimcore.api.tags.git
 COMPOSER_MEMORY_LIMIT=-1 composer require synoa/apitags
 ```
 
