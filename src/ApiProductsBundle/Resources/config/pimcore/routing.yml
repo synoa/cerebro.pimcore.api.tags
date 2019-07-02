@@ -1,5 +1,0 @@
-synoa_api_tags:
-    resource: "@SynoaApiTagsBundle/Controller/"
-    type:     annotation
-    prefix:   /
-
