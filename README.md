@@ -40,4 +40,4 @@ Go to ```http://<host>/webservice/rest/asset/{id}?light=true```
 
 | Software | Version |
 | --- | --- |
-| Pimcore | 5.7.0 |
+| Pimcore | 5.7.0 or 6.0.0 |
